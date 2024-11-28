@@ -1,0 +1,6 @@
+train: E:\TOOL\datasets\deteset_for_calcification\tarin\images
+test:  E:\TOOL\datasets\deteset_for_calcification\test\images
+val: E:\TOOL\datasets\deteset_for_calcification\val\images
+
+nc: 1
+names: ['calcification']
