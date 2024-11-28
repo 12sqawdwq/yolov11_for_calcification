@@ -1,0 +1,13 @@
+train: E:\PROJECT\deta_set\FLL.v7i.yolov9\train
+val: E:\PROJECT\deta_set\FLL.v7i.yolov9\valid
+test: E:\PROJECT\deta_set\FLL.v7i.yolov9\test
+
+nc: 5
+names: ['Barracuda', 'Dolphin', 'Dugong', 'Great-White-Shark', 'Wobbegong Shark']
+
+roboflow:
+  workspace: fll
+  project: fll-59ujz
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fll/fll-59ujz/dataset/7
